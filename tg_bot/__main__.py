@@ -28,7 +28,7 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 
 
-Hello    {}, My Name Is {} !
+Hello {}, My Name Is {} !
 
 I Am A Group Manager Bot Maintained By [This Person](tg://user?id={}).
 
