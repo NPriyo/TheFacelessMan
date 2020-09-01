@@ -36,7 +36,7 @@ I am a group management bot With Some Special Features.
 To add me to your group click the below button 👇
 You can find my list of available commands with /help.
  
-The support group chat is at @ZainsTechChat. Support Channel @ZainsProjects
+
 
 
 """
