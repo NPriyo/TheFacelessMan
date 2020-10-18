@@ -32,7 +32,7 @@ Hello {}, My Name Is {} !
 
 I Am A Group Manager Bot Maintained By [This Person](tg://user?id={}).
 
-I do have Some Special Features.
+I do have many Special Features.
 You can find the list of my available commands with /help.
 To add me to your group click the below button 👇
 
